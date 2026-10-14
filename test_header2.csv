@@ -1,0 +1,1 @@
+frame_id,backend,timestamp,fps,inference_ms,cpu_pct,ram_mb,gpu_pct,gpu_mem_mb,gpu_temp_c

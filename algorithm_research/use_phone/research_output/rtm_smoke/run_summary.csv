@@ -1,0 +1,3 @@
+run_tag,video,frames,wall_s,avg_fps,avg_e2e_ms,pre_ms,infer_ms,post_ms,unique_tracks,fired_tracks,crop_events,kpt_backend,kpt_ms
+20261014_152741,use_phone,300,20.4,24.0,41.7,2.27,20.14,1.11,3,0,0,rtmpose,9.45
+20261014_152816,use_phone,300,15.4,24.4,40.9,2.27,19.7,1.06,3,0,0,rtmpose,9.07

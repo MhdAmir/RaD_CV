@@ -1,0 +1,35 @@
+# Virtual environments (see requirements/)
+.venv*/
+venv/
+
+# Models & engines
+models/
+*.pt
+*.pth
+*.onnx
+*.trt
+*.engine
+*.keras
+*.bin
+*.npz
+
+# Images & videos
+*.jpg
+*.jpeg
+*.mp4
+*.MOV
+*.mov
+*.avi
+*.mkv
+
+# Generated outputs / cache
+out/
+output/
+output_768/
+trt_cache/
+__pycache__/
+*.pyc
+
+# Misc junk
+*.raw
+*.tar.gz

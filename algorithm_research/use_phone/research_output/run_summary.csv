@@ -1,0 +1,4 @@
+run_tag,video,frames,wall_s,avg_fps,avg_e2e_ms,pre_ms,infer_ms,post_ms,unique_tracks,fired_tracks,crop_events,kpt_backend,kpt_ms
+20261014_160046,use_phone,636,29.6,27.1,36.8,1.53,13.05,0.76,5,1,1,rtmpose,6.65
+20261014_160223,stairs_people,1011,92.9,11.2,89.4,1.68,14.64,0.85,52,6,6,rtmpose,48.44
+20261014_161427,0,218,32.7,13.4,74.4,1.45,14.47,0.9,5,0,0,rtmpose,41.69
