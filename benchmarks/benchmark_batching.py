@@ -46,7 +46,7 @@ MODELS = {
 RUNS_DETECT = Path(r"C:\cctv-insight\ai\research\runs\detect")
 GST_BIN = r"C:\Users\istd.magang17\AppData\Local\Programs\gstreamer\1.0\msvc_x86_64\bin\gst-launch-1.0.exe"
 DEFAULT_SOURCE = r"C:\cctv-dev-temp\stairs_people.mp4"
-RESULT_DIR = Path(r"C:\cctv-insight\research_amir\benchmark_results")
+RESULT_DIR = Path(__file__).resolve().parent / "results"
 
 
 def resolve_pt(arg: str) -> Path:

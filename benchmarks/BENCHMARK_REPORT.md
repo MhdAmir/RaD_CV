@@ -103,8 +103,8 @@ This still answers the primary question: *is batched inference faster than indep
 
 | File | Description |
 |------|-------------|
-| `C:\cctv-insight\research_amir\benchmark_batching.py` | Benchmark script (independent + batched scenarios) |
-| `C:\cctv-insight\research_amir\benchmark_results\` | CSV logs and JSON summary (if `--scenario all` is run) |
+| `benchmarks/benchmark_batching.py` | Benchmark script (independent + batched scenarios) |
+| `benchmarks/results/` | CSV logs and JSON summary (if `--scenario all` is run) |
 | `C:\cctv-insight\ai\research\runs\detect\ppe_compliance_yolo26m\weights\best.engine` | Exported batch=4/8 TensorRT engine |
 
 ## 9. Next Steps to Get Native DeepStream Numbers
